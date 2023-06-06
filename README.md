@@ -1,6 +1,6 @@
 # My Portfolio
 
-A [Portfolio](sva313.github.io) project that includes the assignments made for Iek Akmi
+A [Portfolio](https://sva313.github.io) project that includes the assignments made for Iek Akmi
 
 Credits:
 
